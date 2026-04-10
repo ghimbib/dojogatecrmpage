@@ -18,4 +18,41 @@
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
+
+<url>
+  <loc>https://dojogate.ai/about.html</loc>
+  <lastmod>2026-04-09</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>https://dojogate.ai/careers.html</loc>
+  <lastmod>2026-04-09</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.4</priority>
+</url>
+<url>
+  <loc>https://dojogate.ai/docs.html</loc>
+  <lastmod>2026-04-09</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.4</priority>
+</url>
+<url>
+  <loc>https://dojogate.ai/help.html</loc>
+  <lastmod>2026-04-09</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.4</priority>
+</url>
+<url>
+  <loc>https://dojogate.ai/api.html</loc>
+  <lastmod>2026-04-09</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.4</priority>
+</url>
+<url>
+  <loc>https://dojogate.ai/security.html</loc>
+  <lastmod>2026-04-09</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.4</priority>
+</url>
 </urlset>
